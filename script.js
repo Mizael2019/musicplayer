@@ -12,7 +12,7 @@ const musicContainer = document.getElementById("music-container");
  const songs = [
 "The Last of Us", 
 "MGS 3 - Snake Eater",
-"Ed Sheeran - Photograph",
+"Ed Sheeran-Photograph",
 "BenOttewell-The Crossing",
 "DaysGoneTrilha",
 "Florence-StandByMe",
@@ -20,10 +20,11 @@ const musicContainer = document.getElementById("music-container");
 "MGS V-Sins of the Father",
 "SilentHill4-Waiting For You",
 "SilentHill-Theme",
-
-
-
-
+"Ed Sheeran-I See Fire",
+"James Blunt-I'll Take Everything",
+"James Blunt-Same Mistake",
+"James Blunt-You",
+"The Witcher-GeraltofRivia"
 
 
 
