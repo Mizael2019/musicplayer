@@ -4,7 +4,8 @@
   "description": "Player Music",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+      "start": "npm start",
+      "build": "npm build"
   },
   "author": "Mizael Tobias",
   "license": "ISC",
