@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mizael Tobias",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mizael2019/musicplayer.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Mizael2019/musicplayer/issues"
+  },
+  "homepage": "https://github.com/Mizael2019/musicplayer#readme"
 }
