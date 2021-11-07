@@ -4,8 +4,8 @@
   "description": "Player Music",
   "main": "script.js",
   "scripts": {
-      "start": "npm run start",
-      "build": "npm run build"
+    "start": "npm run start",
+    "build": "npm run build"
   },
   "author": "Mizael Tobias",
   "license": "ISC",
