@@ -39,8 +39,8 @@ const musicContainer = document.getElementById("music-container");
  // Update song details  
  function loadSong(songs) {  
   title.innerText = songs;  
-  audio.src = `./music/${songs}.mp3`;  
-  cover.src = `./images/${songs}.jpg`;  
+  audio.src = `../music/${songs}.mp3`;  
+  cover.src = `../images/${songs}.jpg`;  
  }  
 
  // Play Song  
