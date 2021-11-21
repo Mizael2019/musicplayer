@@ -1,5 +1,5 @@
 const musicContainer = document.getElementById("music-container");  
- const playBtn = document.getElementById("play");  
+ const playBtn = document.getElementById("play"); 
  const prevBtn = document.getElementById("prev");  
  const nextBtn = document.getElementById("next");  
  const audio = document.getElementById("audio");  
@@ -24,8 +24,15 @@ const musicContainer = document.getElementById("music-container");
 "James Blunt-I'll Take Everything",
 "James Blunt-Same Mistake",
 "James Blunt-You",
-"The Witcher-GeraltofRivia"
-
+"The Witcher-GeraltofRivia",
+"Alegria",
+"Amor",
+"Benignidade",
+"Bondade",
+"CartaFiladelfia",
+"OPoderdeUmNome",
+"Paz",
+"PazInstrumental"
 
 
 
@@ -102,7 +109,7 @@ const musicContainer = document.getElementById("music-container");
    pauseSong();  
   } else {  
    playSong();  
-  }  
+  } 
  }); 
 
  // Change Song  
