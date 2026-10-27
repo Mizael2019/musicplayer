@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Player Music",
   "main": "script.js",
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "start": "npm run start",
     "build": "npm run build"

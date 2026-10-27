@@ -43,3 +43,6 @@ cypress.env.json
 .feature-express
 allure-results
 .vscode
+
+# Referência de design (não deve subir para o deploy)
+modelos/
